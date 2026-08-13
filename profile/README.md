@@ -58,7 +58,7 @@ site and ships with its own auto-versioned releases.
 
 | Extension | What it does | License |
 | --- | --- | --- |
-| **[Shop](https://github.com/HybridMindLabs/hybridcore-shop)** | Cart-based store for one-time and recurring packages — bundles, sale pricing, gift-to-friend, wishlist, discount codes, per-server reward delivery | Free |
+| **[Shop](https://github.com/HybridMindLabs/hybridcore-shop)** | Cart-based store for one-time and recurring packages — bundles, sale pricing, gift-to-friend, wishlist, discount codes, per-server reward delivery | Premium |
 | **[Tournaments](https://github.com/HybridMindLabs/hybridcore-tournaments)** | Team tournaments with invitations, single-elimination brackets, automatic server assignment, and hands-free match tracking via the bridge | Free |
 | **[Giveaways](https://github.com/HybridMindLabs/hybridcore-giveaways)** | Prize giveaways with eligibility rules, weighted entries, automatic/manual draws and in-game delivery | Free |
 | **[Vote](https://github.com/HybridMindLabs/hybridcore-vote)** | Reward players for voting on server listing sites, with in-game rewards and a top-voters leaderboard | Free |
